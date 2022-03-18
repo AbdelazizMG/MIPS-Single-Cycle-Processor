@@ -6,8 +6,10 @@ The simulation was performed on Modelsim using the following three programs writ
 - Program 2: Factorial Number of 7.
 - Program 3: The Fibonacci series numbers.
 
-The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV FPGA.
+The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV FPGA. 
 
-![فعص 1](https://user-images.githubusercontent.com/68661639/158977157-de0778eb-e52d-454f-9659-4e984e18c714.JPG)
-![فعص 2](https://user-images.githubusercontent.com/68661639/158977170-f70d395c-75b1-4100-9fb7-6af54c236a06.JPG)
-![فعص السيركت](https://user-images.githubusercontent.com/68661639/158977176-5da6cfe7-6513-493e-b58f-1646cb1d0a67.JPG)
+![فعص 2](https://user-images.githubusercontent.com/68661639/158978545-48b0ef60-5c77-4c70-a8b1-5564eddfd65d.JPG)
+![فعص 1](https://user-images.githubusercontent.com/68661639/158978560-2a8725dd-a17e-4dfd-b1aa-2e5a5543a9d0.JPG)
+![فعص 3](https://user-images.githubusercontent.com/68661639/158978569-f46b0019-d6c1-4066-baf4-5a450d77973d.JPG)
+![فعص السيركت](https://user-images.githubusercontent.com/68661639/158978577-70f50489-3cfc-4f7f-9868-e8375437a505.JPG)
+
